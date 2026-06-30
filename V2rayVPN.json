@@ -1,15 +1,15 @@
 [
     {
         "device_id": "1e676b4a583054ed",
-        "key": "Love",
+        "key": "Mohammad",
         "expirydate": "31-12-2035",
-        "Allowoffline": false
+        "Allowoffline": true
     },
     {
         "device_id": "device456",
         "key": "key67890",
         "expirydate": "15-06-2035",
-        "Allowoffline": false
+        "Allowoffline": true
     },
     {
         "device_id": "device123",
@@ -21,7 +21,7 @@
         "device_id": "device456",
         "key": "key67890",
         "expirydate": "15-06-2035",
-        "Allowoffline": false
+        "Allowoffline": true
     },
     {
         "device_id": "device123",
