@@ -28,9 +28,9 @@
       "interval": "everytime",
       "toast": "1-Hour Trial Started! Enjoy ⏳"
     },
-    "12-HOUR-PASS": {
+    "Mohammad-128812": {
       "expiry": "12h",
-      "interval": "1h",
+      "interval": "m5",
       "toast": "12-Hour Session Active ⚡"
     },
     "3-DAY-KEY": {
