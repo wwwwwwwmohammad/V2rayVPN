@@ -1,0 +1,95 @@
+{
+  "config": {
+    "country": "Iran",
+    "backgroundTheme": "rain",
+    "updateAvailable": false,
+    "themeColor": "#8e44ad",
+    "textColor": "#ff00d331"
+  },
+  "loginDialog": {
+    "title": "V2rayVPN",
+    "subtitle": "اگه فیلترتون قفل شد بمن زنگ بزنید  فیلترتون باز کنم کسی فیلترتون دزدید سریع بمن زنگ بزنید فیلترشکن خیلی خیلی قوی شده دیگه هم قفل نمیشه ",
+    "loginButtonText": "ورود",
+    "adminButtonText": "مدیر تلگرام کلید",
+    "adminUrl": "https://t.me/grassmohammad"
+  },
+  "updateDialog": {
+    "title": "V2rayVPN",
+    "subtitle": "اگه فیلترتون قفل شد بمن زنگ بزنید  فیلترتون باز کنم کسی فیلترتون دزدید سریع بمن زنگ بزنید فیلترشکن خیلی خیلی قوی شده دیگه هم قفل نمیشه ",
+    "downloadButtonText": "Download Update",
+    "downloadUrl": "https://t.me/grassmohammad",
+    "showAdminButton": true,
+    "adminButtonText": "Contact Support",
+    "adminUrl": "https://t.me/grassmohammad"
+  },
+  "keys": {
+    "1-HOUR-TRIAL": {
+      "expiry": "1h",
+      "interval": "everytime",
+      "toast": "1-Hour Trial Started! Enjoy ⏳"
+    },
+    "12-HOUR-PASS": {
+      "expiry": "12h",
+      "interval": "1h",
+      "toast": "12-Hour Session Active ⚡"
+    },
+    "3-DAY-KEY": {
+      "expiry": "3d",
+      "interval": "1d",
+      "toast": "3-Day License Verified ✅"
+    },
+    "7-DAY-WEEKLY": {
+      "expiry": "7d",
+      "interval": "1d",
+      "toast": "Weekly Pass Active 📅"
+    },
+    "MONTHLY-VIP": {
+      "expiry": "1m",
+      "interval": "1week",
+      "toast": "Welcome back, Monthly VIP! 💎"
+    },
+    "YEARLY-PRO": {
+      "expiry": "1y",
+      "interval": "1week",
+      "toast": "Yearly Subscription Valid 🌟"
+    },
+    "LIFETIME-GOD": {
+      "expiry": "lifetime",
+      "interval": "30d",
+      "toast": "Lifetime Access Granted 👑"
+    },
+    
+    "MOHAMMAD-ID-KEY": {
+      "expiry": "lifetime",
+      "interval": "1week",
+      "device_ids": [
+        "another_device_id_here",
+        "eb64bfad49cfad3b",
+        "another_device_id_here",
+        "another_device_id_here",
+        "another_device_id_here",
+        "another_device_id_here",
+        "another_device_id_here",
+        "another_device_id_here",
+        "another_device_id_here",
+        "another_device_id_here",
+        "another_device_id_here",
+        "another_device_id_here",
+        "another_device_id_here",
+        "another_device_id_here",
+        "another_device_id_here",
+        "another_device_id_here",
+        "another_device_id_here",
+        "another_device_id_here",
+        "another_device_id_here",
+      ],
+      "toast": "OK📱"
+    },
+    "FIXED-DATE-KEY": {
+      "expiry": "2025-12-31",
+      "interval": "1d",
+      "toast": "Valid until Dec 2025 🗓️"
+    },
+    "SIMPLE-KEY-OLD-STYLE": "2025-01-01"
+  }
+}
