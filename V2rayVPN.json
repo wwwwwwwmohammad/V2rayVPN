@@ -29,9 +29,9 @@
       "toast": "1-Hour Trial Started! Enjoy ⏳"
     },
     "Mohammad-128812": {
-      "expiry": "12h",
-      "interval": "3m",
-      "toast": "12-Hour Session Active ⚡"
+      "expiry": "1m",
+      "interval": "1m",
+      "toast": "✅ محمد ✅"
     },
     "3-DAY-KEY": {
       "expiry": "3d",
