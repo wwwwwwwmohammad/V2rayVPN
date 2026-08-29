@@ -30,7 +30,7 @@
     },
     "Mohammad-128812": {
       "expiry": "12h",
-      "interval": "m5",
+      "interval": "3m",
       "toast": "12-Hour Session Active ⚡"
     },
     "3-DAY-KEY": {
