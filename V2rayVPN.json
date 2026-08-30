@@ -4,7 +4,7 @@
     "backgroundTheme": "rain",
     "updateAvailable": true,
     "themeColor": "#8e44ad",
-    "textColor": "#FFFFFF"
+    "textColor": "#ffb5a900"
   },
   "loginDialog": {
     "title": "V2rayVPN",
