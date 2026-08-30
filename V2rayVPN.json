@@ -15,12 +15,12 @@
   },
   "updateDialog": {
     "title": "V2rayVPN",
-    "subtitle": "اگه فیلترتون قفل شد بمن زنگ بزنید  فیلترتون باز کنم کسی فیلترتون دزدید سریع بمن زنگ بزنید فیلترشکن خیلی خیلی قوی شده دیگه هم قفل نمیشه ",
-    "downloadButtonText": "Download Update",
-    "downloadUrl": "https://t.me/grassmohammad",
+    "subtitle": "لطفاً کم مصرف کنید از فیلترشکن استفاده زیادی به امکان زیاد قطع شود 🚫 🚫",
+    "downloadButtonText": "🔒🔒",
+    "downloadUrl": "",
     "showAdminButton": false,
     "adminButtonText": "Contact Support",
-    "adminUrl": "https://t.me/grassmohammad"
+    "adminUrl": ""
   },
   "keys": {
     "1-HOUR-TRIAL": {
