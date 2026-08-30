@@ -2,9 +2,9 @@
   "config": {
     "country": "Iran",
     "backgroundTheme": "rain",
-    "updateAvailable": true,
+    "updateAvailable": false,
     "themeColor": "#8e44ad",
-    "textColor": "#ff00a902"
+    "textColor": "#FFFFFF"
   },
   "loginDialog": {
     "title": "V2rayVPN",
