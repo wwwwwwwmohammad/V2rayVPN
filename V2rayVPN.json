@@ -18,7 +18,7 @@
     "subtitle": "اگه فیلترتون قفل شد بمن زنگ بزنید  فیلترتون باز کنم کسی فیلترتون دزدید سریع بمن زنگ بزنید فیلترشکن خیلی خیلی قوی شده دیگه هم قفل نمیشه ",
     "downloadButtonText": "Download Update",
     "downloadUrl": "https://t.me/grassmohammad",
-    "showAdminButton": true,
+    "showAdminButton": false,
     "adminButtonText": "Contact Support",
     "adminUrl": "https://t.me/grassmohammad"
   },
