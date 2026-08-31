@@ -24,7 +24,7 @@
   },
   "keys": {
     "1-HOUR-TRIAL": {
-      "expiry": "1h",
+      "expiry": "1m",
       "interval": "everytime",
       "toast": "1-Hour Trial Started! Enjoy ⏳"
     },
