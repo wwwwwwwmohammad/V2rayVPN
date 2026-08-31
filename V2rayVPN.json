@@ -28,7 +28,7 @@
       "interval": "everytime",
       "toast": "No🕛⏳"
     },
-    "Mohammad-128812": {
+    "Mohammad-128235653": {
       "expiry": "1m",
       "interval": "1week",
       "toast": "✅ محمد ✅"
@@ -59,11 +59,11 @@
       "toast": "Lifetime Access Granted 👑"
     },
     
-    "MOHAMMAD-ID-KEY": {
+    "Password-Mohammad-ID": {
       "expiry": "lifetime",
       "interval": "1week",
       "device_ids": [
-        "another_device_id_here",
+        "1e676b4a583054ed",
         "another_device_id_here",
         "another_device_id_here",
         "another_device_id_here",
