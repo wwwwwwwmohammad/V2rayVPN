@@ -63,8 +63,8 @@
       "expiry": "lifetime",
       "interval": "1week",
       "device_ids": [
-        "1e676b4a583054ed",
-        "eb64bfad49cfad3b",
+        "another_device_id_here",
+        "another_device_id_here",
         "another_device_id_here",
         "another_device_id_here",
         "another_device_id_here",
