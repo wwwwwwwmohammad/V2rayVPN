@@ -24,7 +24,7 @@
   },
   "keys": {
     "Mohammad-110055": {
-      "expiry": "1m",
+      "expiry": "10m",
       "interval": "everytime",
       "toast": "No🕛⏳"
     },
