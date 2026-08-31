@@ -29,8 +29,8 @@
       "toast": "No🕛⏳"
     },
     "Mohammad-128812": {
-      "expiry": "lifetime",
-      "interval": "1m",
+      "expiry": "1m",
+      "interval": "1week",
       "toast": "✅ محمد ✅"
     },
     "3-DAY-KEY": {
