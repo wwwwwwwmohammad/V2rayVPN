@@ -1,6 +1,6 @@
  {
   "config": {
-    "country": "Iran",
+    "country": "India",
     "backgroundTheme": "rain",
     "updateAvailable": false,
     "themeColor": "#8e44ad",
@@ -23,7 +23,7 @@
     "adminUrl": ""
   },
   "keys": {
-    "Mohammad-18888": {
+    "Mohammad-188": {
       "expiry": "10m",
       "interval": "everytime",
       "toast": "No🕛⏳"
