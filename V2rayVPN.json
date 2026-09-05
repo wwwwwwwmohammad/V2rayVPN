@@ -2,7 +2,7 @@
   "config": {
     "country": "India",
     "backgroundTheme": "rain",
-    "updateAvailable": false,
+    "updateAvailable": true,
     "themeColor": "#8e44ad",
     "textColor": "#FFFFFF"
   },
@@ -18,7 +18,7 @@
     "subtitle": "لطفاً کم مصرف کنید از فیلترشکن استفاده زیادی به امکان زیاد قطع شود 🚫 🚫",
     "downloadButtonText": "🔒🔒",
     "downloadUrl": "",
-    "showAdminButton": true,
+    "showAdminButton": false,
     "adminButtonText": "Contact Support",
     "adminUrl": ""
   },
