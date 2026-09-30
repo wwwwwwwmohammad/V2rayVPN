@@ -7,7 +7,7 @@
     "textColor": "#ff36d654"
   },
   "loginDialog": {
-    "title": "رمز(ساعت 🕞 3:30)",
+    "title": "(ساعت 🕞 3:30)",
     "subtitle": "ساعت 3:30 زیاد استفاده نشود خراب میشود",
     "loginButtonText": "ورود",
     "adminButtonText": "مدیر تلگرام کلید",
