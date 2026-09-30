@@ -7,8 +7,8 @@
     "textColor": "#ff36d654"
   },
   "loginDialog": {
-    "title": "(ساعت 🕞 3:30)",
-    "subtitle": "ساعت 3:30 زیاد استفاده نشود خراب میشود",
+    "title": "ساعت🕞 3:30",
+    "subtitle": "زیاد استفاده نشود خراب میشود",
     "loginButtonText": "ورود",
     "adminButtonText": "مدیر تلگرام کلید",
     "adminUrl": "https://t.me/grassmohammad"
