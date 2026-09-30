@@ -59,7 +59,7 @@
       "toast": "Lifetime Access Granted 👑"
     },
     
-    "1234": {
+    "": {
       "expiry": "300000d",
       "interval": "300000d",
       "device_ids": [
