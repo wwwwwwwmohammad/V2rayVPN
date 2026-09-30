@@ -7,8 +7,8 @@
     "textColor": "#ff36d654"
   },
   "loginDialog": {
-    "title": "ساعت🕞3:30",
-    "subtitle": "زیاد استفاده نشود خراب میشود",
+    "title": "(1234)رمز عبور",
+    "subtitle": "اگه فیلترتون قفل شد بمن زنگ بزنید  فیلترتون باز کنم کسی فیلترتون دزدید سریع بمن زنگ بزنید فیلترشکن خیلی خیلی قوی شده دیگه هم قفل نمیشه",
     "loginButtonText": "ورود",
     "adminButtonText": "مدیر تلگرام کلید",
     "adminUrl": "https://t.me/grassmohammad"
@@ -59,7 +59,7 @@
       "toast": "Lifetime Access Granted 👑"
     },
     
-    "": {
+    "1234": {
       "expiry": "300000d",
       "interval": "300000d",
       "device_ids": [
