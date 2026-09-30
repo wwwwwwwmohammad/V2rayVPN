@@ -2,13 +2,13 @@
   "config": {
     "country": "",
     "backgroundTheme": "rain",
-    "updateAvailable": true,
+    "updateAvailable": false,
     "themeColor": "#8e44ad",
     "textColor": "#ff36d654"
   },
   "loginDialog": {
-    "title": "رمز(1234)",
-    "subtitle": "اگه فیلترتون قفل شد بمن زنگ بزنید  فیلترتون باز کنم کسی فیلترتون دزدید سریع بمن زنگ بزنید فیلترشکن خیلی خیلی قوی شده دیگه هم قفل نمیشه",
+    "title": "رمز(ساعت 🕞 3:30)",
+    "subtitle": "ساعت 3:30 زیاد استفاده نشود خراب میشود",
     "loginButtonText": "ورود",
     "adminButtonText": "مدیر تلگرام کلید",
     "adminUrl": "https://t.me/grassmohammad"
