@@ -2,7 +2,7 @@
   "config": {
     "country": "",
     "backgroundTheme": "rain",
-    "updateAvailable": false,
+    "updateAvailable": true,
     "themeColor": "#8e44ad",
     "textColor": "#ff36d654"
   },
@@ -15,7 +15,7 @@
   },
   "updateDialog": {
     "title": "V2rayVPN",
-    "subtitle": "فیلترشکن قفل میکنم بازش کنم دزدی زیاده بازش بزارم خراب میشه",
+    "subtitle": "ساعت 🕞 3:30🔓 ⚠️🚫زیاد استفاده نشود خراب میشود",
     "downloadButtonText": "🌐🎞️📽️🌐",
     "downloadUrl": "",
     "showAdminButton": false,
