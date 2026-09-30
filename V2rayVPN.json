@@ -16,7 +16,7 @@
   "updateDialog": {
     "title": "V2rayVPN",
     "subtitle": "ساعت 3:30 زیاد استفاده نشود خراب میشود",
-    "downloadButtonText": "🔒🔒",
+    "downloadButtonText": "ساعت 3:30",
     "downloadUrl": "",
     "showAdminButton": false,
     "adminButtonText": "Contact Support",
