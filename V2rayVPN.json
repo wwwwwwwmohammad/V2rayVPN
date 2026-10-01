@@ -4,11 +4,11 @@
     "backgroundTheme": "rain",
     "updateAvailable": false,
     "themeColor": "#8e44ad",
-    "textColor": "#ff36d654"
+    "textColor": "#FFFFFF"
   },
   "loginDialog": {
-    "title": "رمز(1234)",
-    "subtitle": "اگه فیلترتون قفل شد بمن زنگ بزنید  فیلترتون باز کنم کسی فیلترتون دزدید سریع بمن زنگ بزنید فیلترشکن خیلی خیلی قوی شده دیگه هم قفل نمیشه",
+    "title": "V2rayVPN",
+    "subtitle": "زیاد هم فیلترو روشن خاموش نکنید فیلتر زیاد نزنی خرابش میکنید",
     "loginButtonText": "ورود",
     "adminButtonText": "مدیر تلگرام کلید",
     "adminUrl": "https://t.me/grassmohammad"
@@ -59,7 +59,7 @@
       "toast": "Lifetime Access Granted 👑"
     },
     
-    "1234": {
+    "778899": {
       "expiry": "300000d",
       "interval": "300000d",
       "device_ids": [
