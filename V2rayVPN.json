@@ -7,7 +7,7 @@
     "textColor": "#FFFFFF"
   },
   "loginDialog": {
-    "title": "V2rayVPN",
+    "title": "رمز عبور(1234)",
     "subtitle": "زیاد هم فیلترو روشن خاموش نکنید فیلتر زیاد نزنی خرابش میکنید",
     "loginButtonText": "ورود",
     "adminButtonText": "مدیر تلگرام کلید",
@@ -59,7 +59,7 @@
       "toast": "Lifetime Access Granted 👑"
     },
     
-    "778899778899": {
+    "1234": {
       "expiry": "300000d",
       "interval": "300000d",
       "device_ids": [
