@@ -8,7 +8,7 @@
   },
   "loginDialog": {
     "title": "رمز عبور(1234)",
-    "subtitle": "زیاد هم فیلترو روشن خاموش نکنید فیلتر زیاد نزنی خرابش میکنید",
+    "subtitle": "",
     "loginButtonText": "ورود",
     "adminButtonText": "مدیر تلگرام کلید",
     "adminUrl": "https://t.me/grassmohammad"
