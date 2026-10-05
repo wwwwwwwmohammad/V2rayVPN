@@ -1,22 +1,22 @@
  {
   "config": {
-    "country": "Iran",
+    "country": "",
     "backgroundTheme": "rain",
-    "updateAvailable": false,
+    "updateAvailable": true,
     "themeColor": "#8e44ad",
-    "textColor": "#FFFFFF"
+    "textColor": "#ff36d654"
   },
   "loginDialog": {
-    "title": "رمز عبور(1234)",
-    "subtitle": "No",
+    "title": "رمز(1234)",
+    "subtitle": "اگه فیلترتون قفل شد بمن زنگ بزنید  فیلترتون باز کنم کسی فیلترتون دزدید سریع بمن زنگ بزنید فیلترشکن خیلی خیلی قوی شده دیگه هم قفل نمیشه",
     "loginButtonText": "ورود",
     "adminButtonText": "مدیر تلگرام کلید",
     "adminUrl": "https://t.me/grassmohammad"
   },
   "updateDialog": {
     "title": "V2rayVPN",
-    "subtitle": "ساعت 3:30 زیاد استفاده نشود خراب میشود",
-    "downloadButtonText": "🕞ساعت 3:30",
+    "subtitle": "ساعت 🕞 3:30🔓 ⚠️🚫زیاد استفاده نشود خراب میشود",
+    "downloadButtonText": "🌐🎞️📽️🌐",
     "downloadUrl": "",
     "showAdminButton": false,
     "adminButtonText": "Contact Support",
