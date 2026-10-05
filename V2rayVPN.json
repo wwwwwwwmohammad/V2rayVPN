@@ -1,6 +1,6 @@
  {
   "config": {
-    "country": "",
+    "country": "Iran",
     "backgroundTheme": "rain",
     "updateAvailable": false,
     "themeColor": "#8e44ad",
@@ -8,7 +8,7 @@
   },
   "loginDialog": {
     "title": "رمز عبور(1234)",
-    "subtitle": "",
+    "subtitle": "No",
     "loginButtonText": "ورود",
     "adminButtonText": "مدیر تلگرام کلید",
     "adminUrl": "https://t.me/grassmohammad"
