@@ -1,14 +1,14 @@
  {
   "config": {
-    "country": "",
+    "country": "Iran",
     "backgroundTheme": "rain",
     "updateAvailable": false,
     "themeColor": "#8e44ad",
     "textColor": "#ff36d654"
   },
   "loginDialog": {
-    "title": "رمز(1234)",
-    "subtitle": "اگه فیلترتون قفل شد بمن زنگ بزنید  فیلترتون باز کنم کسی فیلترتون دزدید سریع بمن زنگ بزنید فیلترشکن خیلی خیلی قوی شده دیگه هم قفل نمیشه",
+    "title": "",
+    "subtitle": "",
     "loginButtonText": "ورود",
     "adminButtonText": "مدیر تلگرام کلید",
     "adminUrl": "https://t.me/grassmohammad"
