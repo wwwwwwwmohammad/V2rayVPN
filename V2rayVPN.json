@@ -7,8 +7,8 @@
     "textColor": "#ff36d654"
   },
   "loginDialog": {
-    "title": "",
-    "subtitle": "",
+    "title": "رمز عبور(1234)",
+    "subtitle": "برای خرید کلید به مدیر پیام دهید؛ فقط کاربران دارای اشتراک مجاز هستند",
     "loginButtonText": "ورود",
     "adminButtonText": "مدیر تلگرام کلید",
     "adminUrl": "https://t.me/grassmohammad"
